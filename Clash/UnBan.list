@@ -1,5 +1,15 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+
+DOMAIN-SUFFIX,852789.xyz
+DOMAIN-SUFFIX,2580789.xyz
+DOMAIN-SUFFIX,chiphell.com
+DOMAIN-SUFFIX,ariang.js.org
+DOMAIN-SUFFIX,api.dler.io
+DOMAIN-SUFFIX,api.onedrive.com
+IP-CIDR,123.0.0.0/8,no-resolve
+IP-CIDR,200.67.0.0/16,no-resolve
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
