@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,ariang.js.org
 DOMAIN-SUFFIX,api.dler.io
 DOMAIN-SUFFIX,api.onedrive.com
 IP-CIDR,123.0.0.0/8,no-resolve
-IP-CIDR,200.67.0.0/16,no-resolve
+IP-CIDR,200.0.0.0/8,no-resolve
