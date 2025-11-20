@@ -1,6 +1,3 @@
-DOMAIN,app.folo.is,♻️ 自动选择
-DOMAIN-SUFFIX,jsdelivr.net,♻️ 自动选择
-
 # 自定义 直连
 DOMAIN,tt.852789.xyz
 DOMAIN,microsoft.com
@@ -21,3 +18,7 @@ DOMAIN-SUFFIX,api.onedrive.com
 IP-CIDR,123.0.0.0/8,no-resolve
 IP-CIDR,200.0.0.0/8,no-resolve
 IP-CIDR,200.67.0.0/16,no-resolve
+
+
+DOMAIN,app.folo.is,♻️ 自动选择
+DOMAIN-SUFFIX,jsdelivr.net,♻️ 自动选择
