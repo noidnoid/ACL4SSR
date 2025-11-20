@@ -1,5 +1,5 @@
 DOMAIN,app.folo.is,♻️ 自动选择
-DOMAIN,jsdelivr.net,♻️ 自动选择
+DOMAIN-SUFFIX,jsdelivr.net,♻️ 自动选择
 
 # 自定义 直连
 DOMAIN,tt.852789.xyz
@@ -8,6 +8,7 @@ DOMAIN,live.com
 DOMAIN,rmdown.com
 DOMAIN,qpic.ws
 DOMAIN,ttimg.net
+DOMAIN-SUFFIX,11img.com
 DOMAIN-SUFFIX,852789.xyz
 DOMAIN-SUFFIX,2580789.xyz
 DOMAIN-SUFFIX,yuanshen.com
