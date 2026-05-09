@@ -1,25 +1,28 @@
 # 自定义 直连
-DOMAIN,tt.852789.xyz
-DOMAIN,microsoft.com
-DOMAIN,live.com
-DOMAIN,rmdown.com
-DOMAIN,qpic.ws
-DOMAIN,ttimg.net
-DOMAIN,goofish.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,11img.com
-DOMAIN-SUFFIX,852789.xyz
-DOMAIN-SUFFIX,2580789.xyz
-DOMAIN-SUFFIX,yuanshen.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,rmdown.com
-DOMAIN-SUFFIX,chiphell.com
-DOMAIN-SUFFIX,ariang.js.org
-DOMAIN-SUFFIX,api.dler.io
-DOMAIN-SUFFIX,api.onedrive.com
-IP-CIDR,123.0.0.0/8,no-resolve
-IP-CIDR,200.0.0.0/8,no-resolve
-IP-CIDR,200.67.0.0/16,no-resolve
+DOMAIN-SUFFIX,cn,DIRECT
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,live.com,DIRECT
+DOMAIN-SUFFIX,rmdown.com,DIRECT
+DOMAIN-SUFFIX,qpic.ws,DIRECT
+DOMAIN-SUFFIX,ttimg.net,DIRECT
+DOMAIN-SUFFIX,goofish.com,DIRECT
+DOMAIN-SUFFIX,sharepoint.com,DIRECT
+DOMAIN-SUFFIX,360buyimg.com,DIRECT
+DOMAIN-SUFFIX,11img.com,DIRECT
+DOMAIN-SUFFIX,852789.xyz,DIRECT
+DOMAIN-SUFFIX,2580789.xyz,DIRECT
+DOMAIN-SUFFIX,yuanshen.com,DIRECT
+DOMAIN-SUFFIX,chiphell.com,DIRECT
+DOMAIN-SUFFIX,ariang.js.org,DIRECT
+DOMAIN-SUFFIX,api.dler.io,DIRECT
+DOMAIN-SUFFIX,wakao.de5.net,DIRECT
+DOMAIN-SUFFIX,qqqq.cc.cd,DIRECT
+DOMAIN-SUFFIX,noid.de5.net,DIRECT
+DOMAIN-SUFFIX,noid.cc.cd,DIRECT
+DOMAIN-SUFFIX,api.onedrive.com,DIRECT
+IP-CIDR,123.0.0.0/8,no-resolve,DIRECT
+IP-CIDR,200.0.0.0/8,no-resolve,DIRECT
+IP-CIDR,200.67.0.0/16,no-resolve,DIRECT
 
 
 DOMAIN,app.folo.is,♻️ 自动选择
