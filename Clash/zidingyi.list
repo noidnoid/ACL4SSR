@@ -17,3 +17,11 @@ IP-CIDR,200.67.0.0/16,no-resolve,DIRECT
 
 DOMAIN,app.folo.is,♻️ 自动选择
 DOMAIN-SUFFIX,jsdelivr.net,♻️ 自动选择
+# Google 系 .cn 域名走代理
+DOMAIN-SUFFIX,google.cn,♻️ 自动选择
+DOMAIN-SUFFIX,google.com.cn,♻️ 自动选择
+DOMAIN-SUFFIX,g.cn,♻️ 自动选择
+DOMAIN-SUFFIX,googleapis.cn,♻️ 自动选择
+DOMAIN-SUFFIX,gstatic.cn,♻️ 自动选择
+DOMAIN-SUFFIX,googlecnapps.cn,♻️ 自动选择
+DOMAIN-SUFFIX,gstaticcnapps.cn,♻️ 自动选择
